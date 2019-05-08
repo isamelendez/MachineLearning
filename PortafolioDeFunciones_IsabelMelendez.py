@@ -1,8 +1,6 @@
 '''
 SUGGESTED TO PLOT OUTPUTS
 
-
-output = GradientBoostMaxDepth(1, 33, 1, X_train, y_train, X_test, y_test)
 output = np.array(output)
 transposed = output.T
 x, y = transposed
