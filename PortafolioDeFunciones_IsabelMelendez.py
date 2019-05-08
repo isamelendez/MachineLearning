@@ -1,4 +1,6 @@
 '''
+#Plots each iteration and the metric
+
 SUGGESTED TO PLOT OUTPUTS
 
 output = np.array(output)
